@@ -1,6 +1,9 @@
 # My_ML_Project
+Decision tree regression examines an object's characteristics and trains a model in the shape of a tree to forecast future data and create meaningful continuous output. The output/result is not discrete because it is not represented solely by a known set of discrete values.
+Example of a discrete output - A cricket-match prediction model that determines whether a particular team wins or not.
+Example of continuous output - A sales forecasting model that predicts the profit margins that a company would gain over a financial year based on past values.
 
-DecisionTreeClassifier is a machine learning model based on decision tree algorithms.Decision trees are a type of supervised learning algorithm used for both classification and regression tasks.
+DecisionTreeClassifier is a machine learning model based on decision tree algorithms. Decision trees are a type of supervised learning algorithm used for both classification and regression tasks. (continuous and categorical output variables)
 
 Classification Task:
 DecisionTreeClassifier is specifically designed for classification tasks, where the goal is to assign a label (class) to each input sample.
